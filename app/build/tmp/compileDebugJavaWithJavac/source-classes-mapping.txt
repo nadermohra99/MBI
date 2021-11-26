@@ -1,0 +1,21 @@
+com/example/myapplication/MainActivity3.java
+ com.example.myapplication.MainActivity3
+ com.example.myapplication.MainActivity3$1
+ com.example.myapplication.MainActivity3$2
+com/example/myapplication/NewRecodr.java
+ com.example.myapplication.NewRecodr
+com/example/myapplication/BuildConfig.java
+ com.example.myapplication.BuildConfig
+com/example/myapplication/MainActivity4.java
+ com.example.myapplication.MainActivity4
+ com.example.myapplication.MainActivity4$1
+ com.example.myapplication.MainActivity4$2
+ com.example.myapplication.MainActivity4$3
+ com.example.myapplication.MainActivity4$4
+ com.example.myapplication.MainActivity4$5
+com/example/myapplication/MainActivity.java
+ com.example.myapplication.MainActivity
+ com.example.myapplication.MainActivity$1
+com/example/myapplication/MainActivity2.java
+ com.example.myapplication.MainActivity2
+ com.example.myapplication.MainActivity2$1
